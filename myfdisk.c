@@ -81,6 +81,7 @@ int main(int argc, char** argv)
 		printf("Size: %ld Bytes\n", (uint64_t)partitionEntryPtr->sectorsCount * SECTOR_SIZE);
 		printf("Id: %x\n", partitionEntryPtr->pType);
 		printf("Type: %s\n", partitionEntryPtr->pType == 0x83? "Linux" : partitionEntryPtr->pType == 0x05? "Extended" : "Other");
+		printf("**********************\n");
 		
 		//check if there is available extended parition type
 		if(partitionEntryPtr->pType == 0x05)
@@ -112,6 +113,7 @@ int main(int argc, char** argv)
 			printf("Size: %ld Bytes\n", (uint64_t)partitionEntryPtr->sectorsCount * SECTOR_SIZE);
 			printf("Id: %x\n", partitionEntryPtr->pType);
 			printf("Type: %s\n", partitionEntryPtr->pType == 0x83? "Linux" : partitionEntryPtr->pType == 0x05? "Extended" : "Other");
+			printf("**********************\n");
 			
 			index++;
 			partitionEntryPtr++;
