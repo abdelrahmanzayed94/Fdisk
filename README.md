@@ -26,7 +26,7 @@ myhdd11          1817  2047     231 115.5K 83 Linux
 ```
 command used for compilation:
 ```
-gcc myfdisk.c -o myfdisk
+$ gcc myfdisk.c -o myfdisk
 ```
 run example:
 ```
