@@ -39,6 +39,7 @@ Sectors: 201
 Size: 102912 Bytes
 Id: 83
 Type: Linux
+**********************
 Device: myhdd2
 Boot:  
 Start: 202
@@ -47,6 +48,7 @@ Sectors: 201
 Size: 102912 Bytes
 Id: 83
 Type: Linux
+**********************
 Device: myhdd3
 Boot:  
 Start: 403
@@ -55,6 +57,7 @@ Sectors: 201
 Size: 102912 Bytes
 Id: 83
 Type: Linux
+**********************
 Device: myhdd4
 Boot:  
 Start: 604
@@ -63,6 +66,7 @@ Sectors: 1444
 Size: 739328 Bytes
 Id: 5
 Type: Extended
+**********************
 Device: myhdd5
 Boot:  
 Start: 605
@@ -71,6 +75,7 @@ Sectors: 101
 Size: 51712 Bytes
 Id: 83
 Type: Linux
+**********************
 Device: myhdd6
 Boot:  
 Start: 707
@@ -79,6 +84,7 @@ Sectors: 201
 Size: 102912 Bytes
 Id: 83
 Type: Linux
+**********************
 Device: myhdd7
 Boot:  
 Start: 909
@@ -87,6 +93,7 @@ Sectors: 401
 Size: 205312 Bytes
 Id: 83
 Type: Linux
+**********************
 Device: myhdd8
 Boot:  
 Start: 1311
@@ -95,6 +102,7 @@ Sectors: 201
 Size: 102912 Bytes
 Id: 83
 Type: Linux
+**********************
 Device: myhdd9
 Boot:  
 Start: 1513
@@ -103,6 +111,7 @@ Sectors: 101
 Size: 51712 Bytes
 Id: 83
 Type: Linux
+**********************
 Device: myhdd10
 Boot:  
 Start: 1615
@@ -111,6 +120,7 @@ Sectors: 201
 Size: 102912 Bytes
 Id: 83
 Type: Linux
+**********************
 Device: myhdd11
 Boot:  
 Start: 1817
@@ -119,4 +129,5 @@ Sectors: 231
 Size: 118272 Bytes
 Id: 83
 Type: Linux
+**********************
 ```
