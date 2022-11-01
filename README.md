@@ -1,6 +1,7 @@
 # Fdisk
 This program imitates the "fdisk -l" command for MBR hard disks.
-"myhdd" is a hard disk example including the following paritions:
+
+"myhdd" is a MBR hard disk example, created using "fdisk" command, which includs the following paritions:
 ```
 $ fdisk myhdd -l
 Disk myhdd: 1 MiB, 1048576 bytes, 2048 sectors
